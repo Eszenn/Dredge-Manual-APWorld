@@ -1,0 +1,10 @@
+{
+    "DLC": {
+        "yaml_option": ["include_dlc"],
+        "hidden": true
+    },
+    "Aberrations": {
+        "yaml_option": ["include_aberrations"],
+        "hidden": true
+    }
+}

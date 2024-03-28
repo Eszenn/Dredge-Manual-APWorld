@@ -1,0 +1,1425 @@
+[
+	{
+		"name": "Cod Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Arrow Squid Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Grey Eel Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "Shallow: |Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Gulf Flounder Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Black Grouper Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Stingray Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Sailfish Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Bronze Whaler Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Blacktip Reef Shark Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Common Crab Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Fiddler Crab Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["The Marrows Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Oceanic Perch Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Tiger Mackerel Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Black Sea Bass Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Stonefish Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Blackmouth Salmon Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Conger Eel Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Devil Ray Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Sturgeon Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Wreckfish Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Rock Crab Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Decorator Crab Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Aurora Jellyfish Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Fangtooth Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Barreleye Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Firefly Squid Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Red Snapper Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Giant Amphipod Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Loosejaw Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Snailfish Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Coral Grouper Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Glowing Octopus Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "(|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|) OR (|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|)"
+	},
+	{
+		"name": "Anglerfish Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Barracuda Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Hammerhead Shark Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod|"
+	},
+	{
+		"name": "Crown of Thorns Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Blue Crab Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Spiny Lobster Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Grey Mullet Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Twisted Strand Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Tarpon Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Twisted Strand Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Sergeant Fish Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod| OR |Silt Filtering Trawl Net|"
+	},
+	{
+		"name": "Gar Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod| OR |Silt Filtering Trawl Net|"
+	},
+	{
+		"name": "Longfin Eel Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod|"
+	},
+	{
+		"name": "Catfish Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod| OR |Silt Filtering Trawl Net|"
+	},
+	{
+		"name": "Horseshoe Crab Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Twisted Strand Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Giant Mud Crab Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Twisted Strand Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Armored Searobin Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Cusk Eel Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Heat-Resistant Line| OR |Versatile Rod| OR |Tempered Mesh Net|"
+	},
+	{
+		"name": "Snake Mackerel Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Pale Skate Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Heat-Resistant Line| OR |Versatile Rod| OR |Tempered Mesh Net|"
+	},
+	{
+		"name": "Ghost Shark Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Frilled Shark Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Heat-Resistant Line| OR |Versatile Rod|"
+	},
+	{
+		"name": "Volcano Snail Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Squat Lobster Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Spider Crab Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Anchovy Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Open Ocean Fish"],
+		"requires": "|Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Scarlet Prawn Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Open Ocean Fish"],
+		"requires": "(|Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)) OR (|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|)"
+	},
+	{
+		"name": "Blackfin Tuna Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Open Ocean Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Viperfish Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Open Ocean Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Moonfish Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Open Ocean Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod|"
+	},
+	{
+		"name": "Rattail Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Open Ocean Fish"],
+		"requires": "|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Ocean Sunfish Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Open Ocean Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod|"
+	},
+	{
+		"name": "Icefish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance| OR |Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Char Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform|"
+	},
+	{
+		"name": "Wolffish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance|"
+	},
+	{
+		"name": "Stargazer Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Lizardfish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance| OR |Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Toothfish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance|"
+	},
+	{
+		"name": "Goblin Shark Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance|"
+	},
+	{
+		"name": "Colossal Squid Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Sea Stars Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "King Crab Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Oarfish Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Gale Cliffs Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Gulper Eel Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Stellar Basin Fish"],
+		"requires": "|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Goliath Tigerfish Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod|"
+	},
+	{
+		"name": "Coelacanth Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Devil's Spine Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Sleeper Shark Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Pale Reach Fish", "DLC"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance|"
+	},
+	{
+		"name": "Grotesque Mackerel Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Lumpy Mackerel Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Many-Eyed Mackerel Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "All-Seeing Cod Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Fanged Cod Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Three-Headed Cod Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Brood Squid Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Snag Squid Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Barbed Eel Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Host Eel Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Cyclopean Flounder Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Riddled Flounder Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Tusked Grouper Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Voltaic Grouper Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Shard Ray Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Sallow Sailfish Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Hooked Sailfish Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Bloodskin Shark Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Cleft-Mouthed Shark Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Cerebral Crab Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Malignant Pincer Encyclopedia Entry",
+		"region": "The Marrows",
+		"category": ["Aberrations", "The Marrows Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Gnashing Perch Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Flayed Mackerel Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Bearded Mackerel Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Scouring Bass Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Gelatinous Stonefish Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Enthralled Stonefish Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Decaying Blackmouth Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Sprouting Eel Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Withered Ray Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Translucent Sturgeon Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Shattered Wreckfish Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Bony Wreckfish Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Splintered Crab Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Cortex Decorator Encyclopedia Entry",
+		"region": "Gale Cliffs",
+		"category": ["Aberrations", "Gale Cliffs Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Parhelion Jellyfish Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Cursed Fangtooth Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Voideye Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Radiant Squid Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Blood Snapper Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Latching Snapper Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Ruptured Vessel Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Perished Loosejaw Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Calcified Snailfish Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Seizing Snailfish Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Consumed Grouper Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Medusa Octopus Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "(|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|) OR (|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|)"
+	},
+	{
+		"name": "Bursting Anglerfish Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Savage Barracuda Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Concertina Barracuda Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod|"
+	},
+	{
+		"name": "Gazing Shark Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod|"
+	},
+	{
+		"name": "Crown of Nadir Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Entangled Crab Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Imperious Lobster Encyclopedia Entry",
+		"region": "Stellar Basin",
+		"category": ["Aberrations", "Stellar Basin Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Entwined Mullet Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Gleaming Mullet Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Blistered Tarpon Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Vortex Interloper Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod| OR |Silt Filtering Trawl Net|"
+	},
+	{
+		"name": "Clawfin Gar Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod| OR |Silt Filtering Trawl Net|"
+	},
+	{
+		"name": "Grinning Gar Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod| OR |Silt Filtering Trawl Net|"
+	},
+	{
+		"name": "Twinned Eels Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod|"
+	},
+	{
+		"name": "Nightwing Catfish Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod| OR |Silt Filtering Trawl Net|"
+	},
+	{
+		"name": "Effigy Crab Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Mire Screecher Encyclopedia Entry",
+		"region": "Twisted Strand",
+		"category": ["Aberrations", "Twisted Strand Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Ossified Searobin Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Simple Skimmer| OR |Weighted Line| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Heat-Resistant Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Tendon Rod| OR |Silt Filtering Trawl Net| OR |Large Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Infernal Eel Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Heat-Resistant Line| OR |Versatile Rod| OR |Tempered Mesh Net|"
+	},
+	{
+		"name": "Serpentine Mackerel Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Tattered Mackerel Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Defaced Skate Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Heat-Resistant Line| OR |Versatile Rod| OR |Tempered Mesh Net|"
+	},
+	{
+		"name": "Rapt Shark Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Twisted Shark Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Heat-Resistant Line| OR |Versatile Rod| OR |Tempered Mesh Net|"
+	},
+	{
+		"name": "Grasping Snail Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Sable Reacher Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Umbral Puppet Encyclopedia Entry",
+		"region": "Devil's Spine",
+		"category": ["Aberrations", "Devil's Spine Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Anchovy King Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "|Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Leeching Prawn Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "(|Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)) OR (|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|)"
+	},
+	{
+		"name": "Razormouth Tuna Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+	},
+	{
+		"name": "Decrepit Viperfish Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Collapsed Viperfish Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Skeletal Moonfish Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod|"
+	},
+	{
+		"name": "Beaked Moonfish Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod|"
+	},
+	{
+		"name": "Congealed Rattail Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|"
+	},
+	{
+		"name": "Charred Sunfish Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod|"
+	},
+	{
+		"name": "Glaring Sunfish Encyclopedia Entry",
+		"region": "Open Ocean",
+		"category": ["Aberrations", "Open Ocean Fish"],
+		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod|"
+	},
+	{
+		"name": "Fractalline Icefish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance| OR |Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Thawed Icefish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance| OR |Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Astral Icefish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance| OR |Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Bubbling Char Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform|"
+	},
+	{
+		"name": "Hinged Wolffish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance|"
+	},
+	{
+		"name": "Craterous Seer Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Feral Lizardfish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance| OR |Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Bulbous Toothfish Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance|"
+	},
+	{
+		"name": "Grisly Shark Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Barbed Ice Rod| OR |Glacial Lance|"
+	},
+	{
+		"name": "Pale Grasper Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Fallen Stars Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "King's Wreath Encyclopedia Entry",
+		"region": "Pale Reach",
+		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Resolve Pursuit: A Place to Rest",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": "|Dredging Equipment|"
+	},
+	{
+		"name": "Resolve Pursuit: Best Before",
+		"region": "Gale Cliffs",
+		"category": ["Pursuits"],
+		"requires": []
+	},
+	{
+		"name": "Resolve Pursuit: Castaway",
+		"region": "Open Ocean",
+		"category": ["Pursuits"],
+		"requires": []
+	},
+	{
+		"name": "Resolve Pursuit: Craven Courier",
+		"region": "Open Ocean",
+		"category": ["Pursuits"],
+		"requires": []
+	},
+	{
+		"name": "Resolve Pursuit: Caught to Order",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": []
+	},
+	{
+		"name": "Resolve Pursuit: Figure in Blue",
+		"region": "Open Ocean",
+		"category": ["Pursuits"],
+		"requires": "|Gale Cliffs Boating License| AND |Devil's Spine Boating License|"
+	},
+	{
+		"name": "Resolve Pursuit: Figure in Gold",
+		"region": "Open Ocean",
+		"category": ["Pursuits"],
+		"requires": "|Stellar Basin Boating License| AND (|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|)"
+	},
+	{
+		"name": "Resolve Pursuit: Figure in Purple",
+		"region": "Open Ocean",
+		"category": ["Pursuits"],
+		"requires": "|Twisted Strand Boating License| AND |Stellar Basin Boating License| AND (|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|)"
+	},
+	{
+		"name": "Resolve Pursuit: Figure in Red",
+		"region": "Open Ocean",
+		"category": ["Pursuits"],
+		"requires": "|Devil's Spine Boating License| AND (|Heat-Resistant Line| OR |Versatile Rod| OR |Tempered Mesh Net|)"
+	},
+	{
+		"name": "Resolve Pursuit: Figure in White",
+		"region": "Pale Reach",
+		"category": ["Pursuits", "DLC"],
+		"requires": "|Brittle Trawl Net| OR |Radiant Trawl Net|"
+	},
+	{
+		"name": "Resolve Pursuit: Flames of the Deep",
+		"region": "Devil's Spine",
+		"category": ["Pursuits"],
+		"requires": "(|Heat-Resistant Line| OR |Versatile Rod| OR |Tempered Mesh Net|) AND (|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|)"
+	},
+	{
+		"name": "Resolve Pursuit: Grotesque Fish",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": []
+	},
+	{
+		"name": "Resolve Pursuit: Hermitage",
+		"region": "Gale Cliffs",
+		"category": ["Pursuits"],
+		"requires": "|Dredging Equipment|"
+	},
+	{
+		"name": "Resolve Pursuit: Icebreaker",
+		"region": "Pale Reach",
+		"category": ["Pursuits", "DLC"],
+		"requires": "|Dredging Equipment|"
+	},
+	{
+		"name": "Resolve Pursuit: Ice Shaper",
+		"region": "Pale Reach",
+		"category": ["Pursuits", "DLC"],
+		"requires": "|Dredging Equipment| AND |Icebreaker|"
+	},
+	{
+		"name": "Resolve Pursuit: Lost at Sea",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": "|Dredging Equipment|"
+	},
+	{
+		"name": "Resolve Pursuit: Lost Dog",
+		"region": "Stellar Basin",
+		"category": ["Pursuits"],
+		"requires": []
+	},
+	{
+		"name": "Resolve Pursuit: Package Delivery",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": []
+	},
+	{
+		"name": "Resolve Pursuit: Recording Rarities",
+		"region": "Open Ocean",
+		"category": ["Pursuits"],
+		"requires": "|Gale Cliffs Boating License| AND |Stellar Basin Boating License| AND |Twisted Strand Boating License| AND |Devil's Spine Boating License| AND (|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|) AND (|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod| OR |Silt Filtering Trawl Net|)"
+	},
+	{
+		"name": "Research Assistant: Return Prototype Parts",
+		"region": "Stellar Basin",
+		"category": ["Pursuits"],
+		"requires": []
+	},
+	{
+		"name": "Resolve Pursuit: Research Assistant",
+		"region": "Stellar Basin",
+		"category": ["Pursuits"],
+		"requires": "|Dredging Equipment| AND (|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|)"
+	},
+	{
+		"name": "Resolve Pursuit: Stone Tablets",
+		"region": "Devil's Spine",
+		"category": ["Pursuits"],
+		"requires": "|Dredging Equipment|"
+	},
+	{
+		"name": "Resolve Pursuit: The Bitter End",
+		"region": "Twisted Strand",
+		"category": ["Pursuits"],
+		"requires": "|Dredging Equipment| AND (|Anti-Tangle Line| OR |Versatile Rod| OR |Tendon Rod|)"
+	},
+	{
+		"name": "The Collector: Return One Relic",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": "|@Relics:1|"
+	},
+	{
+		"name": "The Collector: Return Two Relics",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": "|@Relics:2|"
+	},
+	{
+		"name": "The Collector: Return Three Relics",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": "|@Relics:3|"
+	},
+	{
+		"name": "The Collector: Return Four Relics",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": "|@Relics:4|"
+	},
+	{
+		"name": "The Collector: Return the Final Relic",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": "|@Relics:5|",
+		"place_item": ["Book of the Deep"]
+	},
+	{
+		"name": "The Collector: Ornate Key Dredge Spot",
+		"region": "The Marrows",
+		"category": ["Pursuits"],
+		"requires": "|Dredging Equipment|"
+	},
+	{
+		"name": "The Collector: Rusted Music Box Dredge Spot",
+		"region": "Gale Cliffs",
+		"category": ["Pursuits"],
+		"requires": "|Dredging Equipment|"
+	},
+	{
+		"name": "The Collector: Jewel Encrusted Band Dredge Spot",
+		"region": "Stellar Basin",
+		"category": ["Pursuits"],
+		"requires": "|Dredging Equipment| AND (|Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|)"
+	},
+	{
+		"name": "Resolve Pursuit: The Narwhal",
+		"region": "Pale Reach",
+		"category": ["Pursuits", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Resolve Pursuit: Under the Ice",
+		"region": "Pale Reach",
+		"category": ["Pursuits", "DLC"],
+		"requires": "|Dredging Equipment| AND |Icebreaker|"
+	},
+	{
+		"name": "Message - 20th August",
+		"region": "The Marrows",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - 21st August",
+		"region": "The Marrows",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - Artifact Manifest",
+		"region": "Gale Cliffs",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - 9th September",
+		"region": "Gale Cliffs",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - 14th September",
+		"region": "Stellar Basin",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - 6th, 7th March",
+		"region": "Stellar Basin",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - Tattered Receipt",
+		"region": "Twisted Strand",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Messages - ??? (Twisted Strand)",
+		"region": "Twisted Strand",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - 1st June",
+		"region": "Devil's Spine",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - ??? (Devil's Spine)",
+		"region": "Devil's Spine",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - Ragged Note",
+		"region": "Open Ocean",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Message - Fisherman's Note",
+		"region": "Open Ocean",
+		"category": ["Messages"],
+		"requires": []
+	},
+	{
+		"name": "Captain's Log - 30th May",
+		"region": "Pale Reach",
+		"category": ["Messages", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Captain's Log - 1st June",
+		"region": "Pale Reach",
+		"category": ["Messages", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Captain's Log - 5th June",
+		"region": "Pale Reach",
+		"category": ["Messages", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Old Journal - 2nd June",
+		"region": "Pale Reach",
+		"category": ["Messages", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Old Journal - 4th June",
+		"region": "Pale Reach",
+		"category": ["Messages", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Old Journal - 5th June",
+		"region": "Pale Reach",
+		"category": ["Messages", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Leather Bound Journal - 4th June",
+		"region": "Pale Reach",
+		"category": ["Messages", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Leather Bound Journal - 7th June",
+		"region": "Pale Reach",
+		"category": ["Messages", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Leather Bound Journal - 8th June",
+		"region": "Pale Reach",
+		"category": ["Messages", "DLC"],
+		"requires": []
+	},
+	{
+		"name": "Cod Shrine",
+		"region": "The Marrows",
+		"category": ["Shrines"],
+		"requires": []
+	},
+	{
+		"name": "Crab Shrine",
+		"region": "Gale Cliffs",
+		"category": ["Shrines"],
+		"requires": "|Basic Crab Pot| OR |Efficient Crab Pot| OR |Hardy Crab Pot| OR |Large Crab Pot| OR |Complex Crab Pot| OR |Massive Crab Pot| OR |Reinforced Crab Pot| OR |Mouth of the Deep|"
+	},
+	{
+		"name": "Aberrant Shrine",
+		"region": "Twisted Strand",
+		"category": ["Shrines"],
+		"requires": []
+	},
+	{
+		"name": "Aberration Rock Slab",
+		"region": "Devil's Spine",
+		"category": ["Shrines"],
+		"requires": []
+	},
+	{
+		"name": "Shark Shrine",
+		"region": "Open Ocean",
+		"category": ["Shrines"],
+		"requires": "|Stellar Basin Boating License| AND |Devil's Spine Boating License| AND (|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform|) AND (|Sampling Device| OR |Bottomless Lines| OR |Fathomless Winch| OR |Viscera Crane|)"
+	},
+	{
+		"name": "Book from Shipwright",
+		"region": "The Marrows",
+		"category": ["Gifts"],
+		"requires": []
+	},
+	{
+		"name": "Book from Fishmonger",
+		"region": "The Marrows",
+		"category": ["Gifts"],
+		"requires": "|Sustainable Fishing| OR |Rods, Reels, and Rigs| OR |Correct Engine Operation| OR |Engineer's Companion| OR |The Relaxed Mind| OR |Art of the Silver Tongue| OR |Getting Over it with Mind and Body| OR |A Plan for the Future| OR |Haggling and Bartering - A Guide| OR |Advanced Fishing| OR |Pushing the Limit - Engines| OR |Nautical Engineering| OR |Book of Astral Symbols|"
+	},
+	{
+		"name": "Book from Trader",
+		"region": "The Marrows",
+		"category": ["Gifts"],
+		"requires": []
+	},
+	{
+		"name": "Book from Travelling Merchant",
+		"region": "Open Ocean",
+		"category": ["Gifts"],
+		"requires": "|Gale Cliffs Boating License| OR |Stellar Basin Boating License| OR |Devil's Spine Boating License| OR |Twisted Strand Boating License| OR |Pale Reach Boating License|"
+	},
+	{
+		"name": "Return the Book of the Deep to the Ocean",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Book of the Deep|"
+	}
+]

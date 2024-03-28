@@ -1,0 +1,31 @@
+{
+	"The Marrows": 	{
+		"starting": true,
+		"connects_to": ["Open Ocean"],
+		"requires": []
+	},
+	"Gale Cliffs": 	{
+		"connects_to": ["Open Ocean"],
+		"requires": "|Gale Cliffs Boating License|"
+	},
+	"Stellar Basin": 	{
+		"connects_to": ["Open Ocean"],
+		"requires": "|Stellar Basin Boating License|"
+	},
+	"Twisted Strand": 	{
+		"connects_to": ["Open Ocean"],
+		"requires": "|Twisted Strand Boating License|"
+	},
+	"Devil's Spine": 	{
+		"connects_to": ["Open Ocean"],
+		"requires": "|Devil's Spine Boating License|"
+	},
+	"Open Ocean": 	{
+		"connects_to": ["The Marrows","Gale Cliffs","Stellar Basin","Twisted Strand","Devil's Spine","Pale Reach"],
+		"requires": []
+	},
+	"Pale Reach": 	{
+		"connects_to": ["Open Ocean"],
+		"requires": "|Pale Reach Boating License|"
+}
+}

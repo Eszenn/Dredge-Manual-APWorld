@@ -1,0 +1,464 @@
+[
+	{
+		"count":1,
+		"name": "Gale Cliffs Boating License",
+		"category": ["Boating Licenses"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stellar Basin Boating License",
+		"category": ["Boating Licenses"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Twisted Strand Boating License",
+		"category": ["Boating Licenses"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Devil's Spine Boating License",
+		"category": ["Boating Licenses"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pale Reach Boating License",
+		"category": ["Boating Licenses", "DLC"],
+		"progression": true
+	},
+	{
+		"count": 0,
+		"name": "Basic Fishing Pole",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":0,
+		"name": "Simple Skimmer",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Weighted Line",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sinew Spindle",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hydraulic Rod",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Flexible Fish Pole",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Heat-Resistant Line",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Anti-Tangle Line",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Versatile Rod",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Harvesting Platform",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bottomless Lines",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fathomless Winch",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sampling Device",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tendon Rod",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Viscera Crane",
+		"category": ["Fishing Rods"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Encrusted Talisman",
+		"category": ["Fishing Rods"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Barbed Ice Rod",
+		"category": ["Fishing Rods", "DLC"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Glacial Lance",
+		"category": ["Fishing Rods", "DLC"],
+		"progression": true
+	},
+	{
+		"count":0,
+		"name": "Basic Trawl Net",
+		"category": ["Trawl Nets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Improved Trawl Net",
+		"category": ["Trawl Nets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Silt Filtering Trawl Net",
+		"category": ["Trawl Nets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tempered Mesh Net",
+		"category": ["Trawl Nets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Large Trawl Net",
+		"category": ["Trawl Nets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Heavy-Duty Trawl Net",
+		"category": ["Trawl Nets"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Brittle Trawl Net",
+		"category": ["Trawl Nets", "DLC"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Radiant Trawl Net",
+		"category": ["Trawl Nets", "DLC"],
+		"progression": true
+	},
+	{
+		"count":0,
+		"name": "Basic Crab Pot",
+		"category": ["Crab Pots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Efficient Crab Pot",
+		"category": ["Crab Pots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hardy Crab Pot",
+		"category": ["Crab Pots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Large Crab Pot",
+		"category": ["Crab Pots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Complex Crab Pot",
+		"category": ["Crab Pots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Massive Crab Pot",
+		"category": ["Crab Pots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Reinforced Crab Pot",
+		"category": ["Crab Pots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mouth of the Deep",
+		"category": ["Crab Pots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Haste",
+		"category": ["Abilities"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Manifest",
+		"category": ["Abilities"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Banish",
+		"category": ["Abilities"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Atrophy",
+		"category": ["Abilities"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sustainable Fishing",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rods, Reels, and Rigs",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Correct Engine Operation",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "The Relaxed Mind",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Engineer's Companion",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Art of the Silver Tongue",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Getting Over it with Mind and Body",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "A Plan for the Future",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Haggling and Bartering - A Guide",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Advanced Fishing",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pushing the Limit - Engines",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nautical Engineering",
+		"category": ["Books"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Book of Astral Symbols",
+		"category": ["Books", "DLC"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dredging Equipment",
+		"category": ["Ship Upgrades"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Icebreaker",
+		"category": ["Ship Upgrades", "DLC"],
+		"progression": true
+	},
+	{
+		"count":0,
+		"name": "Peculiar Engine",
+		"category": ["Engines"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Weak Valve Engine",
+		"category": ["Engines"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rusty Outboard Engine",
+		"category": ["Engines"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Improved Outboard Engine",
+		"category": ["Engines"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Refined Outboard Engine",
+		"category": ["Engines"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Jet Drive Engine",
+		"category": ["Engines"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Twin Prop Engine",
+		"category": ["Engines"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Twin Jet Drive Engine",
+		"category": ["Engines"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Engine Stack",
+		"category": ["Engines"],
+		"useful": true
+	},
+	{
+		"count": "12",
+		"name": "Message",
+		"category": ["Messages"],
+		"filler": true
+	},
+	{
+		"count": "9",
+		"name": "Journal Entry",
+		"category": ["Messages"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Ornate Key",
+		"category": ["Relics"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rusted Music Box",
+		"category": ["Relics"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Jewel Encrusted Band",
+		"category": ["Relics"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shimmering Necklace",
+		"category": ["Relics"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Antique Pocket Watch",
+		"category": ["Relics"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Book of the Deep",
+		"category": ["Relics"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Flame of the Sky",
+		"category": ["Ship Upgrades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Relic Shuffle",
+		"category": ["Relic Shuffle"],
+		"filler": true
+	}
+]
