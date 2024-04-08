@@ -1402,7 +1402,7 @@
 		"name": "Book from Fishmonger",
 		"region": "The Marrows",
 		"category": ["Gifts"],
-		"requires": "|Sustainable Fishing| OR |Rods, Reels, and Rigs| OR |Correct Engine Operation| OR |Engineer's Companion| OR |The Relaxed Mind| OR |Art of the Silver Tongue| OR |Getting Over it with Mind and Body| OR |A Plan for the Future| OR |Haggling and Bartering - A Guide| OR |Advanced Fishing| OR |Pushing the Limit - Engines| OR |Nautical Engineering| OR |Book of Astral Symbols|"
+		"requires": "|@Books:1|"
 	},
 	{
 		"name": "Book from Trader",
@@ -1412,14 +1412,18 @@
 	},
 	{
 		"name": "Book from Travelling Merchant",
-		"region": "Open Ocean",
 		"category": ["Gifts"],
-		"requires": "|Gale Cliffs Boating License| OR |Stellar Basin Boating License| OR |Devil's Spine Boating License| OR |Twisted Strand Boating License| OR |Pale Reach Boating License|"
+		"requires": "|@Boating Licenses:1|"
 	},
 	{
 		"name": "Return the Book of the Deep to the Ocean",
-		"victory": true,
 		"category": ["Victory"],
-		"requires": "|Book of the Deep|"
+		"requires": "|Book of the Deep|",
+		"place_item": "Victory"
+	},
+	{
+		"name": "Victory",
+		"requires": "|Victory|",
+		"victory": true
 	}
 ]
