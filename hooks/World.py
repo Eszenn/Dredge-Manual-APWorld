@@ -75,15 +75,16 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # Use this hook to remove items from the item pool
-    itemNamesToRemove = []
+    itemNamesToRemove = ["Basic Fishing Pole", "Simple Skimmer", "Basic Crab Pot", "Basic Trawl Net"]
 
     itemNames = ["Ornate Key", "Rusted Music Box", "Jewel Encrusted Band", "Shimmering Necklace",
                  "Antique Pocket Watch"]
+
     locationNames = ["The Collector: Ornate Key Dredge Spot", "The Collector: Rusted Music Box Dredge Spot",
                      "The Collector: Jewel Encrusted Band Dredge Spot", "Resolve Pursuit: The Bitter End",
                      "Resolve Pursuit: Flames of the Deep"]
 
-    if not is_option_enabled(world=world, player=player, name="shuffle_relics"):
+    if not is_option_enabled(multiworld, player, "shuffle_relics"):
         for locationName in locationNames:
 
             for l in multiworld.get_unfilled_locations(player=player):
@@ -104,6 +105,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
 
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
+        multiworld.push_precollected(item)
         item_pool.remove(item)
 
     return item_pool
