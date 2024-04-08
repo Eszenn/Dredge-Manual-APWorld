@@ -30,13 +30,13 @@
 		"progression": true
 	},
 	{
-		"count": 0,
+		"count": 1,
 		"name": "Basic Fishing Pole",
 		"category": ["Fishing Rods"],
 		"progression": true
 	},
 	{
-		"count":0,
+		"count":1,
 		"name": "Simple Skimmer",
 		"category": ["Fishing Rods"],
 		"progression": true
@@ -138,7 +138,7 @@
 		"progression": true
 	},
 	{
-		"count":0,
+		"count":1,
 		"name": "Basic Trawl Net",
 		"category": ["Trawl Nets"],
 		"progression": true
@@ -186,7 +186,7 @@
 		"progression": true
 	},
 	{
-		"count":0,
+		"count":1,
 		"name": "Basic Crab Pot",
 		"category": ["Crab Pots"],
 		"progression": true
@@ -457,8 +457,7 @@
 	},
 	{
 		"count":1,
-		"name": "Relic Shuffle",
-		"category": ["Relic Shuffle"],
-		"filler": true
+		"name": "Victory",
+		"progression": true
 	}
 ]
