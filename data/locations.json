@@ -417,7 +417,7 @@
 		"name": "Colossal Squid Encyclopedia Entry",
 		"region": "Pale Reach",
 		"category": ["Pale Reach Fish", "DLC"],
-		"requires": "|Brittle Trawl Net| OR |Radiant Trawl Net|"
+		"requires": "|Radiant Trawl Net|"
 	},
 	{
 		"name": "Sea Stars Encyclopedia Entry",
@@ -1023,7 +1023,7 @@
 		"name": "Pale Grasper Encyclopedia Entry",
 		"region": "Pale Reach",
 		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
-		"requires": "|Brittle Trawl Net| OR |Radiant Trawl Net|"
+		"requires": "|Radiant Trawl Net|"
 	},
 	{
 		"name": "Fallen Stars Encyclopedia Entry",
