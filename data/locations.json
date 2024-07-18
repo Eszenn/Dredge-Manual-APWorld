@@ -417,7 +417,7 @@
 		"name": "Colossal Squid Encyclopedia Entry",
 		"region": "Pale Reach",
 		"category": ["Pale Reach Fish", "DLC"],
-		"requires": "|Radiant Trawl Net|"
+		"requires": "|Brittle Trawl Net| OR |Radiant Trawl Net|"
 	},
 	{
 		"name": "Sea Stars Encyclopedia Entry",
@@ -909,7 +909,7 @@
 		"name": "Anchovy King Encyclopedia Entry",
 		"region": "Open Ocean",
 		"category": ["Aberrations", "Open Ocean Fish"],
-		"requires": "|Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+		"requires": "|Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
 	},
 	{
 		"name": "Leeching Prawn Encyclopedia Entry",
@@ -921,7 +921,7 @@
 		"name": "Razormouth Tuna Encyclopedia Entry",
 		"region": "Open Ocean",
 		"category": ["Aberrations", "Open Ocean Fish"],
-		"requires": "|Hydraulic Rod| OR |Harvesting Platform| OR |Fathomless Winch| OR |Tendon Rod| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
+		"requires": "|Basic Fishing Pole| OR |Sinew Spindle| OR |Flexible Fish Pole| OR |Anti-Tangle Line| OR |Versatile Rod| OR |Harvesting Platform| OR |Basic Trawl Net| OR |Improved Trawl Net| OR |Tempered Mesh Net| OR |Large Trawl Net| OR |Heavy-Duty Trawl Net| OR (|Radiant Trawl Net| AND |Pale Reach Boating License|)"
 	},
 	{
 		"name": "Decrepit Viperfish Encyclopedia Entry",
@@ -1023,7 +1023,7 @@
 		"name": "Pale Grasper Encyclopedia Entry",
 		"region": "Pale Reach",
 		"category": ["Aberrations", "DLC", "Pale Reach Fish"],
-		"requires": "|Radiant Trawl Net|"
+		"requires": "|Brittle Trawl Net| OR |Radiant Trawl Net|"
 	},
 	{
 		"name": "Fallen Stars Encyclopedia Entry",
@@ -1419,7 +1419,7 @@
 		"name": "Return the Book of the Deep to the Ocean",
 		"category": ["Victory"],
 		"requires": "|Book of the Deep|",
-		"place_item": "Victory"
+		"place_item": ["Victory"]
 	},
 	{
 		"name": "Victory",

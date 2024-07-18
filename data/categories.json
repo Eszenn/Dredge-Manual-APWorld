@@ -1,6 +1,6 @@
 {
     "DLC": {
-        "yaml_option": ["include_dlc"],
+        "yaml_option": ["include_pale_reach"],
         "hidden": true
     },
     "Aberrations": {
